@@ -8,6 +8,9 @@
     <string name="edit_message1">Enter your username</string>
     <string name="edit_message2">Enter your password</string>
     <string name="edit_message3">Enter your dislike</string>
+    <string name="txt_app_name">LEARNMIXER</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_password">Password</string>
     <string name="btn_login">LOGIN</string>
 
 </resources>
